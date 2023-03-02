@@ -1,0 +1,43 @@
+/* etiqueta HTML va directamente el nombre*/
+/* CLASS va con "." adelante*/
+/*ID va con "#" adelante*/
+
+body{
+background-color: rgba(92, 147, 147, 0.411); 
+color: rgb(160, 60, 60);
+}
+#redes{
+    text-align: center;
+    margin: auto;
+}
+li{
+list-style-type: none;
+margin-left: -3,5%;
+}
+
+.imgperfil{
+border-radius: 100%;
+border-style: solid;
+
+
+}
+.nomperfil{
+    font-size: 3em;
+    color: rgba(29, 48, 87, 0.801);
+    
+}
+.der{
+    justify-content: end;
+    display: flex;
+    
+}
+.apellido{
+    color: rgb(14, 49, 40);
+}
+.video{
+    margin: 4rem 0 0 20rem;
+}
+.mapa{
+    padding: 5%;
+    border-style: solid;
+}
